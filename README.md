@@ -1,6 +1,6 @@
 # Facial Recognition Web App
 
-**Tech Stack:**  
+**Tech Stack:**
 - **Backend:** FastAPI, SQLite, face_recognition, OpenCV  
 - **Frontend:** React, Tailwind CSS  
 
